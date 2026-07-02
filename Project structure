@@ -1,0 +1,21 @@
+Secure-Login-System/
+│
+├── app.py
+├── models.py
+├── forms.py
+├── config.py
+├── requirements.txt
+├── README.md
+├── database.db
+│
+├── templates/
+│   ├── login.html
+│   ├── register.html
+│   ├── dashboard.html
+│   └── base.html
+│
+├── static/
+│   ├── style.css
+│   └── script.js
+│
+└── instance/
