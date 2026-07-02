@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Dashboard</title>
+
+<link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+<div class="card">
+
+<h1>Welcome</h1>
+
+<p>Login Successful</p>
+
+<a href="/logout">Logout</a>
+
+</div>
+
+</body>
+
+</html>
